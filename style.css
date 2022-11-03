@@ -1,0 +1,46 @@
+body{
+	background-color: #53488d;
+}
+
+h1{
+	font-family: 'Acme', sans-serif;
+	text-align: center;
+	margin-top: 200px;
+	font-size: 60px;
+}
+.button{
+	text-align: center;
+	height: 50px;
+	width: 70px;
+	border-radius: 10px;
+	margin-left: 100px;
+	font-family: 'Acme', sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	border-style: none;
+	font-family: 'Acme', sans-serif;
+}
+
+
+.button2{
+	text-align: center;
+	height: 50px;
+	width: 70px;
+	border-radius: 10px;
+	margin-left: px;
+	font-family: 'Acme', sans-serif;
+	font-size: 20px;
+	display:inline-block;
+  flood-color: black;
+  border-style: none;
+
+}
+
+
+marquee{
+	font-size: 20px;
+	margin-top: 100px;
+	color: white;
+}
+
+
